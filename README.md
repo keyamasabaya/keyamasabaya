@@ -1,7 +1,5 @@
 ```bash
 $ whoami
-```
-```md
 * 🚀 Full Stack Developer
 * 🔐 Blockchain Enthusiast
 * 🤖 AI Explorer
@@ -11,8 +9,6 @@ $ whoami
 
 ```bash
 $ cat /etc/system-info
-```
-```yaml
 [SYSTEM_PROFILE]
 ├── 💻 Languages
 │   ├── PHP          ██████████████████░░  90%
@@ -35,8 +31,6 @@ $ cat /etc/system-info
 
 ```bash
 $ ls -la ~/projects/featured/
-```
-```yaml
 drwxr-xr-x  4 w3spi5 developers  4096 Nov 14 12:00 .
 drwxr-xr-x  8 w3spi5 developers  4096 Nov 14 12:00 ..
 
@@ -58,18 +52,14 @@ drwxr-xr-x  8 w3spi5 developers  4096 Nov 14 12:00 ..
 
 ```bash
 $ gpg --list-keys --keyid-format LONG
-```
-```bash
 pub   rsa4096/[REDACTED] 2025-11-14 [SC]
       Key fingerprint = [SECURE_COMMUNICATIONS_ENABLED]
 uid                      w3spi5 <github@wespify.com>
 sub   rsa4096/[REDACTED] 2025-11-14 [E]
 ```
 
-```bash
-$ curl -s https://api.github.com/users/w3spi5 | jq '.stats'
-```
 ```json
+$ curl -s https://api.github.com/users/w3spi5 | jq '.stats'
 {
   "contributions":  "████████████████████",
   "commits":        "1,337+",
@@ -81,8 +71,6 @@ $ curl -s https://api.github.com/users/w3spi5 | jq '.stats'
 
 ```bash
 $ echo $CONTACT_METHODS
-```
-```bash
  ─────────────────────────────────────────────────────────────────
 │ 📧 Email:    github@wespify.com                                │
 │ 🌐 Website:  https://wespify.com                               │
@@ -109,8 +97,6 @@ EOB
 
 ```bash
 $ tail -f /var/log/current_activities.log
-```
-```
 [2025-11-14 12:00:01] INFO   Working on decentralized applications
 [2025-11-14 12:00:02] INFO   Building API integrations
 [2025-11-14 12:00:03] INFO   Contributing to open source
@@ -121,8 +107,6 @@ $ tail -f /var/log/current_activities.log
 
 ```bash
 $ fortune | cowsay -f tux
-```
-```yaml
  _______________________________________
 < "Code is like humor. When you have to >
 < explain it, it's bad." - Cory House   >
@@ -150,8 +134,6 @@ $ fortune | cowsay -f tux
 
 ```bash
 $ exit
-```
-```yaml
  ─────────────────────────────────────────────────────────────
 │ Thanks for visiting! Feel free to explore my repositories   │
 │ and don't hesitate to reach out for collaborations.         │
