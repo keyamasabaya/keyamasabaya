@@ -14,7 +14,7 @@
 
 ### `$ whoami`
 
-> Développeur passionné basé en France, je conçois des applications robustes à l'intersection du **Web**, de la **Blockchain** et de l'**Intelligence Artificielle**. J'aime transformer des idées complexes en solutions élégantes et performantes.
+> Passionate developer based in France, building robust applications at the intersection of **Web**, **Blockchain** and **Artificial Intelligence**. I love turning complex ideas into elegant, high-performance solutions.
 
 ---
 
@@ -23,8 +23,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  LANGUAGES                                                   ║
-║  PHP          ██████████████████░░  90%   ← mon terrain      ║
-║  JavaScript   ███████████████░░░░░  75%     de jeu            ║
+║  PHP          ██████████████████░░  90%   ← home turf         ║
+║  JavaScript   ███████████████░░░░░  75%                       ║
 ║  Python       ████████████░░░░░░░░  60%                       ║
 ║  Solidity     ██████░░░░░░░░░░░░░░  30%                       ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -44,7 +44,7 @@
 <td width="50%">
 
 #### 🎵 [php-discogs-api](https://github.com/w3spi5/php-discogs-api)
-Client PHP 8.x pour l'API Discogs — intégration de la plus grande base de données musicale au monde.
+PHP 8.x client for the Discogs API — tap into the world's largest music database.
 
 `PHP 8.x` `REST API` `OAuth`
 
@@ -54,7 +54,7 @@ Client PHP 8.x pour l'API Discogs — intégration de la plus grande base de don
 <td width="50%">
 
 #### 💰 [php-bscscan-api](https://github.com/w3spi5/php-bscscan-api)
-Client API pour l'explorateur blockchain BSC — extraction de données DeFi en temps réel.
+API client for the BSC blockchain explorer — real-time DeFi data extraction.
 
 `PHP` `Web3` `Blockchain`
 
@@ -66,7 +66,7 @@ Client API pour l'explorateur blockchain BSC — extraction de données DeFi en 
 <td width="50%">
 
 #### 🤖 [realtime-object-detection](https://github.com/w3spi5/realtime-object-detection)
-Détection d'objets en temps réel sur mobile avec TensorFlow.js et le modèle COCO-SSD.
+Real-time object detection on mobile using TensorFlow.js and the COCO-SSD model.
 
 `JavaScript` `TensorFlow.js` `COCO-SSD`
 
@@ -75,10 +75,10 @@ Détection d'objets en temps réel sur mobile avec TensorFlow.js et le modèle C
 </td>
 <td width="50%">
 
-#### 🔮 Prochain projet ?
-Tu as une idée, un besoin, un défi technique ? Parlons-en.
+#### 🔮 What's next?
+Got an idea, a need, or a technical challenge? Let's talk.
 
-[![Let's talk](https://img.shields.io/badge/Me_contacter-58a6ff?style=flat-square&logo=github&logoColor=white)](mailto:github@wespify.com)
+[![Let's talk](https://img.shields.io/badge/Get_in_touch-58a6ff?style=flat-square&logo=github&logoColor=white)](mailto:github@wespify.com)
 
 </td>
 </tr>
@@ -89,12 +89,12 @@ Tu as une idée, un besoin, un défi technique ? Parlons-en.
 ### `$ tail -f focus.log`
 
 ```log
-[INFO]  🏗️  Construction d'applications décentralisées
-[INFO]  🔌  Développement & intégration d'APIs
-[INFO]  🌍  Contribution à l'open source
-[DEBUG] 🧠  Exploration IA / Machine Learning
-[INFO]  ⚡  Création de solutions performantes
-[WARN]  ☕  Niveau de café critique... recharge en cours
+[INFO]  🏗️  Building decentralized applications
+[INFO]  🔌  Developing & integrating APIs
+[INFO]  🌍  Contributing to open source
+[DEBUG] 🧠  Exploring AI / Machine Learning
+[INFO]  ⚡  Crafting high-performance solutions
+[WARN]  ☕  Coffee level critical... refilling
 ```
 
 ---
@@ -115,7 +115,7 @@ Tu as une idée, un besoin, un défi technique ? Parlons-en.
 ### `$ gpg --list-keys`
 
 <details>
-<summary>🔑 Ma clé PGP publique — cliquez pour afficher</summary>
+<summary>🔑 My public PGP key — click to expand</summary>
 
 ```
 pub   rsa4096 2025-11-14 [SC]
@@ -155,8 +155,8 @@ VGAA
  ╚═══════════════════════════════════════════════════════════╝
 ```
 
-**Merci d'être passé ! N'hésite pas à explorer mes repos et à me contacter pour collaborer.**
+**Thanks for stopping by! Feel free to explore my repos and reach out to collaborate.**
 
-[![GitHub](https://img.shields.io/badge/Suivre_@w3spi5-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/w3spi5)
+[![GitHub](https://img.shields.io/badge/Follow_@w3spi5-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/w3spi5)
 
 </div>
