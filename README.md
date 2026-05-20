@@ -22,9 +22,9 @@
 └─$ whoami --verbose
 ```
 
-> Développeur **full-stack** basé en **France**, je construis des applications robustes à l'intersection du **Web**, de la **Blockchain** et de l'**Intelligence Artificielle**.
-> Côté pile retournée : **hacker éthique** sur plateformes de challenges et programmes de **bug bounty**.
-> Casser proprement pour construire plus solide — c'est tout le jeu.
+> **Full-stack developer** based in **France**, building robust applications at the intersection of **Web**, **Blockchain** and **Artificial Intelligence**.
+> Flip side of the stack: **ethical hacker** on challenge platforms and **bug bounty** programs.
+> Break cleanly to build stronger — that's the whole game.
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 #### 🎵 [php-discogs-api](https://github.com/w3spi5/php-discogs-api)
 
-Client PHP 8.x pour l'API Discogs — un accès direct à la plus grande base de données musicale au monde.
+PHP 8.x client for the Discogs API — direct access to the world's largest music database.
 
 `PHP 8.x` · `REST` · `OAuth`
 
@@ -103,7 +103,7 @@ Client PHP 8.x pour l'API Discogs — un accès direct à la plus grande base de
 
 #### 💰 [php-bscscan-api](https://github.com/w3spi5/php-bscscan-api)
 
-Client API pour l'explorateur BSC — extraction temps réel de données DeFi.
+API client for the BSC blockchain explorer — real-time DeFi data extraction.
 
 `PHP` · `Web3` · `Blockchain`
 
@@ -116,7 +116,7 @@ Client API pour l'explorateur BSC — extraction temps réel de données DeFi.
 
 #### 🤖 [realtime-object-detection](https://github.com/w3spi5/realtime-object-detection)
 
-Détection d'objets en temps réel sur mobile avec TensorFlow.js et COCO-SSD.
+Real-time object detection on mobile using TensorFlow.js and the COCO-SSD model.
 
 `JavaScript` · `TensorFlow.js` · `COCO-SSD`
 
@@ -127,7 +127,7 @@ Détection d'objets en temps réel sur mobile avec TensorFlow.js et COCO-SSD.
 
 #### 🔮 What's next?
 
-Une idée, un besoin, un challenge technique ? On en parle.
+Got an idea, a need, a technical challenge? Let's talk.
 
 [![Get in touch](https://img.shields.io/badge/Get_in_touch-0D1117?style=for-the-badge&logo=maildotru&logoColor=00E5FF&labelColor=0D1117)](mailto:github@wespify.com)
 
@@ -167,11 +167,11 @@ Une idée, un besoin, un challenge technique ? On en parle.
 <details>
 <summary><b>📜 Disclosure policy — how I report</b></summary>
 
-- Reports rédigés en **anglais ou français**, suivant la politique du programme.
-- Communication chiffrée disponible via [PGP](#-gpg---list-keys).
-- Aucune exploitation au-delà du minimum nécessaire à la preuve de concept.
-- Respect strict du **scope**, des **règles d'engagement** et des **délais de divulgation**.
-- Aucune publication tant que le correctif n'est pas déployé et coordonné avec l'éditeur.
+- Reports written in **English or French**, per the program's policy.
+- Encrypted communication available via [PGP](#-gpg---list-keys).
+- No exploitation beyond the minimum required for proof of concept.
+- Strict adherence to **scope**, **rules of engagement** and **disclosure timelines**.
+- No public disclosure until the fix is deployed and coordinated with the vendor.
 
 </details>
 
@@ -218,7 +218,7 @@ Une idée, un besoin, un challenge technique ? On en parle.
 ### `$ gpg --list-keys`
 
 <details>
-<summary>🔑 Clé PGP publique — clique pour déplier</summary>
+<summary>🔑 Public PGP key — click to expand</summary>
 
 ```
 pub   rsa4096 2025-11-14 [SC]
