@@ -1,29 +1,33 @@
 {
-  "contributions": 453,
-  "repos": 16,
+  "repos": 35,
+  "followers": 23,
   "stars": 62,
   "prs": 78,
   "issues": 19,
   "langs": [
     {
       "name": "PHP",
-      "pct": 89.7
-    },
-    {
-      "name": "Shell",
-      "pct": 6.1
+      "pct": 73.6
     },
     {
       "name": "JavaScript",
-      "pct": 3.7
+      "pct": 17
+    },
+    {
+      "name": "CSS",
+      "pct": 4.1
+    },
+    {
+      "name": "Shell",
+      "pct": 3.1
     },
     {
       "name": "TypeScript",
-      "pct": 0.5
+      "pct": 1.8
     },
     {
-      "name": "Dockerfile",
-      "pct": 0.1
+      "name": "PowerShell",
+      "pct": 0.2
     }
   ]
 }
