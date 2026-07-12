@@ -1,0 +1,8 @@
+{
+  "name": "w3spi5-profile-assets",
+  "private": true,
+  "description": "Generator for the neumorphic SVG assets used in the profile README.",
+  "type": "module",
+  "scripts": { "build": "node generate.mjs" },
+  "dependencies": { "simple-icons": "^13" }
+}

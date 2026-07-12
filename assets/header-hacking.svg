@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="62" viewBox="0 0 860 62" role="img" aria-label="nmap -sV ./ethical-hacking">
+<defs><filter id="h" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+  <feDropShadow in="SourceGraphic" dx="6" dy="6" stdDeviation="8" flood-color="#04060a" flood-opacity="0.95" result="d"/>
+  <feDropShadow in="SourceGraphic" dx="-6" dy="-6" stdDeviation="8" flood-color="#171f2b" flood-opacity="0.9" result="l"/>
+  <feMerge><feMergeNode in="d"/><feMergeNode in="l"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter></defs>
+<g filter="url(#h)">
+  <rect x="8" y="8" width="844" height="46" rx="16" fill="#0d1117"/>
+  <rect x="8" y="8" width="844" height="46" rx="16" fill="none" stroke="#1b2432" stroke-opacity="0.8"/>
+</g>
+<circle cx="34" cy="31" r="5.5" fill="#bd00ff"/>
+<circle cx="54" cy="31" r="5.5" fill="#00e5ff"/>
+<circle cx="74" cy="31" r="5.5" fill="#2b3644"/>
+<text x="118" y="31" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="15" font-weight="600" fill="#6e7a8a" dominant-baseline="central" textLength="126" lengthAdjust="spacingAndGlyphs">w3spi5@wespify</text>
+<text x="250" y="31" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="15" font-weight="700" fill="#00e5ff" dominant-baseline="central">:~$</text>
+<text x="286" y="31" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="15" font-weight="600" fill="#c9d1d9" dominant-baseline="central" textLength="234" lengthAdjust="spacingAndGlyphs">nmap -sV ./ethical-hacking</text>
+<rect x="534" y="22" width="10" height="18" rx="2" fill="#00e5ff" opacity="0.85"/>
+</svg>
