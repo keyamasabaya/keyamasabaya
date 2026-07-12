@@ -17,74 +17,34 @@
 
 ---
 
-```ansi
-┌──(w3spi5㉿wespify)-[~]
-└─$ whoami --verbose
-```
+<div align="center">
+  <img src="assets/header-whoami.svg" alt="whoami --verbose" width="100%" />
+</div>
 
 > **Full-stack developer** based in **France**, building robust applications at the intersection of **Web**, **Blockchain** and **Artificial Intelligence**.
 > Flip side of the stack: **ethical hacker** on challenge platforms and **bug bounty** programs.
 > Break cleanly to build stronger — that's the whole game.
 
 <div align="center">
-
-```diff
-+ build · break · learn · share · repeat
-```
-
+  <img src="assets/tagline.svg" alt="build · break · learn · share · repeat" />
 </div>
 
 ---
-
-```ansi
-┌──(w3spi5㉿wespify)-[~]
-└─$ cat stack.conf
-```
 
 <div align="center">
+  <img src="assets/header-stack.svg" alt="cat stack.conf" width="100%" />
 
-#### `// languages`
-
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=BD00FF&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00E5FF&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=BD00FF&labelColor=0D1117)
-![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=00E5FF&labelColor=0D1117)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=BD00FF&labelColor=0D1117)
-
-#### `// frameworks & runtimes`
-
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=BD00FF&labelColor=0D1117)
-![Symfony](https://img.shields.io/badge/Symfony-0D1117?style=for-the-badge&logo=symfony&logoColor=00E5FF&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=BD00FF&labelColor=0D1117)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF&labelColor=0D1117)
-![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=BD00FF&labelColor=0D1117)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00E5FF&labelColor=0D1117)
-
-#### `// chain & cloud & ops`
-
-![Ethereum](https://img.shields.io/badge/Ethereum-0D1117?style=for-the-badge&logo=ethereum&logoColor=00E5FF&labelColor=0D1117)
-![BNB Chain](https://img.shields.io/badge/BNB_Chain-0D1117?style=for-the-badge&logo=binance&logoColor=BD00FF&labelColor=0D1117)
-![Web3.js](https://img.shields.io/badge/Web3-0D1117?style=for-the-badge&logo=web3dotjs&logoColor=00E5FF&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=BD00FF&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00E5FF&labelColor=0D1117)
-![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=BD00FF&labelColor=0D1117)
-
-#### `// offsec toolkit`
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=BD00FF&labelColor=0D1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF&labelColor=0D1117)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu&logoColor=BD00FF&labelColor=0D1117)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00E5FF&labelColor=0D1117)
-![Ghidra](https://img.shields.io/badge/Ghidra-0D1117?style=for-the-badge&logo=ghidra&logoColor=BD00FF&labelColor=0D1117)
-
+  <img src="assets/stack-languages.svg" alt="Languages: PHP, JavaScript, Python, Solidity, Bash" width="100%" />
+  <img src="assets/stack-frameworks.svg" alt="Frameworks: Laravel, Symfony, Node.js, React, Vue.js, TensorFlow.js" width="100%" />
+  <img src="assets/stack-chain.svg" alt="Chain, cloud & ops: Ethereum, BNB Chain, Web3.js, Docker, Linux, Kali" width="100%" />
+  <img src="assets/stack-offsec.svg" alt="Offsec toolkit: Burp Suite, Wireshark, Nmap, Metasploit, Ghidra" width="100%" />
 </div>
 
 ---
 
-```ansi
-┌──(w3spi5㉿wespify)-[~]
-└─$ ls ~/projects/featured/
-```
+<div align="center">
+  <img src="assets/header-projects.svg" alt="ls ~/projects/featured" width="100%" />
+</div>
 
 <table>
 <tr>
@@ -137,85 +97,44 @@ Got an idea, a need, a technical challenge? Let's talk.
 
 ---
 
-```ansi
-┌──(w3spi5㉿wespify)-[~]
-└─$ nmap -sV ./ethical-hacking
-```
-
 <div align="center">
+  <img src="assets/header-hacking.svg" alt="nmap -sV ./ethical-hacking" width="100%" />
 
-#### `// platforms — challenges & training`
+  <img src="assets/stack-platforms.svg" alt="Platforms — challenges & training: Hack The Box, TryHackMe, Root-Me" width="100%" />
+  <img src="assets/stack-bugbounty.svg" alt="Bug bounty programs: HackerOne, YesWeHack, Intigriti" width="100%" />
 
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00E5FF&labelColor=0D1117)](https://app.hackthebox.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=BD00FF&labelColor=0D1117)](https://tryhackme.com)
-[![Root-Me](https://img.shields.io/badge/Root--Me-0D1117?style=for-the-badge&logo=hackaday&logoColor=00E5FF&labelColor=0D1117)](https://www.root-me.org)
+  <img src="assets/scope.svg" alt="Focus, scope and rules of engagement" width="100%" />
 
-#### `// bug bounty programs`
-
-[![HackerOne](https://img.shields.io/badge/HackerOne-0D1117?style=for-the-badge&logo=hackerone&logoColor=BD00FF&labelColor=0D1117)](https://hackerone.com)
-[![YesWeHack](https://img.shields.io/badge/YesWeHack-0D1117?style=for-the-badge&logo=yeswehack&logoColor=00E5FF&labelColor=0D1117)](https://yeswehack.com)
-[![Intigriti](https://img.shields.io/badge/Intigriti-0D1117?style=for-the-badge&logo=intigriti&logoColor=BD00FF&labelColor=0D1117)](https://www.intigriti.com)
-
+  <img src="assets/disclosure.svg" alt="Disclosure policy — how I report" width="100%" />
 </div>
 
-```log
-[FOCUS]  web application security  ·  api abuse  ·  smart-contract auditing
-[SCOPE]  responsible disclosure only — coordinated, scoped, ethical
-[RULE ]  no scope-creep, no PII exfil, no public PoCs before patch
-```
-
-<details>
-<summary><b>📜 Disclosure policy — how I report</b></summary>
-
-- Reports written in **English or French**, per the program's policy.
-- Encrypted communication available via [PGP](#-gpg---list-keys).
-- No exploitation beyond the minimum required for proof of concept.
-- Strict adherence to **scope**, **rules of engagement** and **disclosure timelines**.
-- No public disclosure until the fix is deployed and coordinated with the vendor.
-
-</details>
-
 ---
 
-```ansi
-┌──(w3spi5㉿wespify)-[~]
-└─$ tail -f focus.log
-```
+<div align="center">
+  <img src="assets/header-focus.svg" alt="tail -f focus.log" width="100%" />
 
-```log
-[INFO ]  🏗️   building decentralized applications
-[INFO ]  🔌   designing & integrating APIs
-[INFO ]  🛡️   hunting bugs — responsibly
-[INFO ]  🌍   contributing to open source
-[DEBUG]  🧠   exploring AI / ML
-[INFO ]  ⚡   crafting high-performance solutions
-[WARN ]  ☕   coffee level critical... refilling
-```
+  <img src="assets/focuslog.svg" alt="Current focus log" width="100%" />
+</div>
 
 ---
 
 <div align="center">
+  <img src="assets/header-stats.svg" alt="git log --stat --all" width="100%" />
 
-```ansi
-┌──(w3spi5㉿wespify)-[~]
-└─$ git stats
-```
+  <img src="https://github-readme-stats.vercel.app/api?username=w3spi5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=BD00FF&text_color=C9D1D9&ring_color=BD00FF&cache_seconds=21600" alt="GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com?user=w3spi5&hide_border=true&background=0D1117&border=1B2432&stroke=1B2432&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=6E7A8A&currStreakNum=BD00FF&sideNums=BD00FF" alt="GitHub Streak — Total Contributions" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=w3spi5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=BD00FF&text_color=C9D1D9&ring_color=BD00FF" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=w3spi5&hide_border=true&background=0D1117&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=BD00FF&sideNums=BD00FF" alt="GitHub Streak" height="170" />
+  <br/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3spi5&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="170" />
-<img src="https://github-profile-trophy.vercel.app/?username=w3spi5&theme=matrix&no-frame=true&no-bg=true&row=2&column=4&margin-w=8" alt="Trophies" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3spi5&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8&cache_seconds=21600" alt="Top Languages" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=w3spi5&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" height="170" />
 
 </div>
 
 ---
 
 <div align="center">
-
-### `$ gpg --list-keys`
+  <img src="assets/header-gpg.svg" alt="gpg --list-keys" width="100%" />
 
 <details>
 <summary>🔑 Public PGP key — click to expand</summary>
@@ -260,8 +179,8 @@ VGAA
 
 **Thanks for stopping by. Explore the repos, drop me a line, let's build (or break) something.**
 
-[![Follow](https://img.shields.io/badge/Follow_@w3spi5-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117)](https://github.com/w3spi5)
-[![Sponsor](https://img.shields.io/badge/Say_hi-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=BD00FF&labelColor=0D1117)](mailto:github@wespify.com)
+<a href="https://github.com/w3spi5"><img src="assets/btn-follow.svg" height="52" alt="Follow @w3spi5" /></a>
+<a href="mailto:github@wespify.com"><img src="assets/btn-sponsor.svg" height="52" alt="Say hi" /></a>
 
 <br/>
 
