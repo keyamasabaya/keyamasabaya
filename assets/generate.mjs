@@ -1,4 +1,4 @@
-// Theme-agnostic SVG asset generator for the w3spi5 GitHub profile.
+// Theme-agnostic SVG asset generator for the L3ssOrder GitHub profile.
 // No baked background plates — every asset is transparent so it blends into
 // ANY GitHub theme (dark, dark-dimmed, high-contrast). Shapes are defined by
 // thin accent borders + soft neon glows. Run:  node assets/generate.mjs
@@ -86,7 +86,7 @@ function header(name, command) {
 <circle cx="30" cy="${H / 2}" r="5" fill="${PURPLE}"/>
 <circle cx="48" cy="${H / 2}" r="5" fill="${CYAN}"/>
 <circle cx="66" cy="${H / 2}" r="5" fill="#3a4658"/>
-<text x="112" y="${H / 2}" font-family="${FONT}" font-size="14.5" dominant-baseline="central" xml:space="preserve"><tspan fill="${MUTED}" font-weight="600">w3spi5@wespify</tspan><tspan fill="${CYAN}" font-weight="700"> :~$ </tspan><tspan fill="${TEXT}" font-weight="600">${esc(command)}</tspan><tspan fill="${CYAN}" font-weight="700"> ▍</tspan></text>
+<text x="112" y="${H / 2}" font-family="${FONT}" font-size="14.5" dominant-baseline="central" xml:space="preserve"><tspan fill="${MUTED}" font-weight="600">L3ssOrder@wespify</tspan><tspan fill="${CYAN}" font-weight="700"> :~$ </tspan><tspan fill="${TEXT}" font-weight="600">${esc(command)}</tspan><tspan fill="${CYAN}" font-weight="700"> ▍</tspan></text>
 </svg>`;
   writeFileSync(join(OUT, `header-${name}.svg`), svg);
 }
@@ -248,7 +248,7 @@ panel('disclosure', {
   ],
 });
 
-button('follow',  'Follow  @w3spi5', 'github', CYAN);
+button('follow',  'Follow  @L3ssOrder', 'github', CYAN);
 button('sponsor', 'Say hi',          'githubsponsors', PURPLE);
 
 // PGP toggle — clean pill used as the <details> summary

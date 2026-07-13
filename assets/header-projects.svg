@@ -6,5 +6,5 @@
 <circle cx="30" cy="27" r="5" fill="#bd00ff"/>
 <circle cx="48" cy="27" r="5" fill="#00e5ff"/>
 <circle cx="66" cy="27" r="5" fill="#3a4658"/>
-<text x="112" y="27" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="14.5" dominant-baseline="central" xml:space="preserve"><tspan fill="#8b98a9" font-weight="600">w3spi5@wespify</tspan><tspan fill="#00e5ff" font-weight="700"> :~$ </tspan><tspan fill="#c9d1d9" font-weight="600">ls ~/projects/featured</tspan><tspan fill="#00e5ff" font-weight="700"> ▍</tspan></text>
+<text x="112" y="27" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="14.5" dominant-baseline="central" xml:space="preserve"><tspan fill="#8b98a9" font-weight="600">L3ssOrder@wespify</tspan><tspan fill="#00e5ff" font-weight="700"> :~$ </tspan><tspan fill="#c9d1d9" font-weight="600">ls ~/projects/featured</tspan><tspan fill="#00e5ff" font-weight="700"> ▍</tspan></text>
 </svg>
