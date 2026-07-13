@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://wespify.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+L3ssOrder_;Full-Stack+Dev+%2F%2F+Ethical+Hacker;Breaking+stuff+to+make+it+stronger;PHP+%E2%80%A2+Web3+%E2%80%A2+AI+%E2%80%A2+Offensive+Security" alt="L3ssOrder — full-stack developer & ethical hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+keyamasabaya_;Full-Stack+Dev+%2F%2F+Ethical+Hacker;Breaking+stuff+to+make+it+stronger;PHP+%E2%80%A2+Web3+%E2%80%A2+AI+%E2%80%A2+Offensive+Security" alt="keyamasabaya — full-stack developer & ethical hacker" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🎵 [php-discogs-api](https://github.com/L3ssOrder/php-discogs-api)
+#### 🎵 [php-discogs-api](https://github.com/keyamasabaya/php-discogs-api)
 
 PHP 8.x client for the Discogs API — direct access to the world's largest music database.
 
@@ -57,7 +57,7 @@ PHP 8.x client for the Discogs API — direct access to the world's largest musi
 </td>
 <td width="50%" valign="top">
 
-#### 💰 [php-bscscan-api](https://github.com/L3ssOrder/php-bscscan-api)
+#### 💰 [php-bscscan-api](https://github.com/keyamasabaya/php-bscscan-api)
 
 API client for the BSC blockchain explorer — real-time DeFi data extraction.
 
@@ -70,7 +70,7 @@ API client for the BSC blockchain explorer — real-time DeFi data extraction.
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 [realtime-object-detection](https://github.com/L3ssOrder/realtime-object-detection)
+#### 🤖 [realtime-object-detection](https://github.com/keyamasabaya/realtime-object-detection)
 
 Real-time object detection on mobile using TensorFlow.js and the COCO-SSD model.
 
@@ -119,7 +119,7 @@ Got an idea, a need, a technical challenge? Let's talk.
 
   <img src="assets/stat-overview.svg" alt="Overview — repositories, stars, pull requests, issues" width="100%" />
 
-  <img src="https://streak-stats.demolab.com?user=L3ssOrder&hide_border=true&background=00000000&border=00000000&stroke=3A4658&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B98A9&currStreakNum=BD00FF&sideNums=00E5FF" alt="Contributions & streak" height="180" />
+  <img src="https://streak-stats.demolab.com?user=keyamasabaya&hide_border=true&background=00000000&border=00000000&stroke=3A4658&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B98A9&currStreakNum=BD00FF&sideNums=00E5FF" alt="Contributions & streak" height="180" />
 
   <img src="assets/stat-langs.svg" alt="Most used languages" width="100%" />
 
@@ -175,7 +175,7 @@ VGAA
 
 **Thanks for stopping by. Explore the repos, drop me a line, let's build (or break) something.**
 
-<a href="https://github.com/L3ssOrder"><img src="assets/btn-follow.svg" height="52" alt="Follow @L3ssOrder" /></a>
+<a href="https://github.com/keyamasabaya"><img src="assets/btn-follow.svg" height="52" alt="Follow @keyamasabaya" /></a>
 <a href="mailto:github@wespify.com"><img src="assets/btn-sponsor.svg" height="52" alt="Say hi" /></a>
 
 <br/>

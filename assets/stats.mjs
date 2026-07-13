@@ -1,4 +1,4 @@
-// Self-hosted stats cards for the L3ssOrder profile — no flaky third-party image
+// Self-hosted stats cards for the keyamasabaya profile — no flaky third-party image
 // services. When run inside GitHub Actions (GH_TOKEN present) it refreshes
 // assets/stats.json from the GitHub API, then renders the SVGs. Locally (no
 // token) it just re-renders from the committed stats.json.
@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const OUT = dirname(fileURLToPath(import.meta.url));
-const USER = process.env.STATS_USER || 'L3ssOrder';
+const USER = process.env.STATS_USER || 'keyamasabaya';
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
 
 const CYAN = '#00e5ff', PURPLE = '#bd00ff', TEXT = '#c9d1d9', MUTED = '#8b98a9', BORDER = '#3a4658';
