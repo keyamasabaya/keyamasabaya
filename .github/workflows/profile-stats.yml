@@ -1,0 +1,43 @@
+name: Refresh profile stats
+
+# Self-hosted replacement for the flaky third-party stats image services.
+# Regenerates assets/stat-overview.svg + assets/stat-langs.svg from the GitHub
+# API and commits them back, so the README always renders reliable, on-theme
+# stat cards served straight from this repo.
+
+on:
+  schedule:
+    - cron: '17 4 * * *'   # daily at 04:17 UTC
+  workflow_dispatch: {}
+  push:
+    paths:
+      - 'assets/stats.mjs'
+      - '.github/workflows/profile-stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Render stat cards
+        run: node assets/stats.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_USER: ${{ github.repository_owner }}
+      - name: Commit refreshed stats
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.json assets/stat-overview.svg assets/stat-langs.svg
+          git diff --staged --quiet || git commit -m "chore: refresh profile stats [skip ci]"
+          git push

@@ -19,13 +19,9 @@
 
 <div align="center">
   <img src="assets/header-whoami.svg" alt="whoami --verbose" width="100%" />
-</div>
 
-> **Full-stack developer** based in **France**, building robust applications at the intersection of **Web**, **Blockchain** and **Artificial Intelligence**.
-> Flip side of the stack: **ethical hacker** on challenge platforms and **bug bounty** programs.
-> Break cleanly to build stronger — that's the whole game.
+  <img src="assets/whoami.svg" alt="Full-stack developer based in France, building at the intersection of Web, Blockchain and AI — and an ethical hacker on challenge platforms and bug bounty programs." width="100%" />
 
-<div align="center">
   <img src="assets/tagline.svg" alt="build · break · learn · share · repeat" />
 </div>
 
@@ -121,13 +117,11 @@ Got an idea, a need, a technical challenge? Let's talk.
 <div align="center">
   <img src="assets/header-stats.svg" alt="git log --stat --all" width="100%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=w3spi5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=BD00FF&text_color=C9D1D9&ring_color=BD00FF&cache_seconds=21600" alt="GitHub Stats" height="170" />
-  <img src="https://streak-stats.demolab.com?user=w3spi5&hide_border=true&background=0D1117&border=1B2432&stroke=1B2432&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=6E7A8A&currStreakNum=BD00FF&sideNums=BD00FF" alt="GitHub Streak — Total Contributions" height="170" />
+  <img src="assets/stat-overview.svg" alt="Overview — repositories, stars, pull requests, issues" width="100%" />
 
-  <br/>
+  <img src="https://streak-stats.demolab.com?user=w3spi5&hide_border=true&background=00000000&border=00000000&stroke=3A4658&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B98A9&currStreakNum=BD00FF&sideNums=00E5FF" alt="Contributions & streak" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3spi5&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8&cache_seconds=21600" alt="Top Languages" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=w3spi5&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" height="170" />
+  <img src="assets/stat-langs.svg" alt="Most used languages" width="100%" />
 
 </div>
 
@@ -137,7 +131,9 @@ Got an idea, a need, a technical challenge? Let's talk.
   <img src="assets/header-gpg.svg" alt="gpg --list-keys" width="100%" />
 
 <details>
-<summary>🔑 Public PGP key — click to expand</summary>
+<summary><img src="assets/pgp-toggle.svg" alt="Public PGP key — click to expand" height="42" /></summary>
+
+<br/>
 
 ```
 pub   rsa4096 2025-11-14 [SC]

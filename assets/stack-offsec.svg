@@ -1,43 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="160" viewBox="0 0 860 160" role="img" aria-label="offsec toolkit">
-<defs><filter id="neu" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
-  <feDropShadow in="SourceGraphic" dx="4" dy="4" stdDeviation="5" flood-color="#04060a" flood-opacity="0.95" result="d"/>
-  <feDropShadow in="SourceGraphic" dx="-4" dy="-4" stdDeviation="5" flood-color="#171f2b" flood-opacity="0.9" result="l"/>
-  <feMerge><feMergeNode in="d"/><feMergeNode in="l"/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter><filter id="card" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
-  <feDropShadow in="SourceGraphic" dx="7" dy="7" stdDeviation="9" flood-color="#04060a" flood-opacity="0.95" result="d"/>
-  <feDropShadow in="SourceGraphic" dx="-7" dy="-7" stdDeviation="9" flood-color="#171f2b" flood-opacity="0.9" result="l"/>
-  <feMerge><feMergeNode in="d"/><feMergeNode in="l"/><feMergeNode in="SourceGraphic"/></feMerge>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="100" viewBox="0 0 860 100" role="img" aria-label="offsec toolkit">
+<defs><filter id="g0" x="-40%" y="-60%" width="180%" height="220%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#00e5ff" flood-opacity="0.35"/>
+</filter><filter id="g1" x="-40%" y="-60%" width="180%" height="220%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#bd00ff" flood-opacity="0.35"/>
 </filter></defs>
-<g filter="url(#card)">
-  <rect x="8" y="8" width="844" height="144" rx="24" fill="#0d1117"/>
-  <rect x="8" y="8" width="844" height="144" rx="24" fill="none" stroke="#1b2432" stroke-opacity="0.7"/>
-</g>
-<circle cx="32" cy="44" r="5" fill="#00e5ff"/>
-<text x="48" y="44" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="17" font-weight="700" fill="#c9d1d9" dominant-baseline="central"><tspan fill="#6e7a8a">// </tspan>offsec toolkit</text>
-<g filter="url(#neu)">
-    <rect x="26" y="74" width="156" height="44" rx="14" fill="#0d1117"/>
-    <rect x="26" y="74" width="156" height="44" rx="14" fill="none" stroke="#00e5ff" stroke-opacity="0.14"/>
-  </g>
-  <g transform="translate(43,86.5) scale(0.7917)"><path d="M0 0v24h24V0Zm11.063 3.357h1.874v2.756L10.41 9.2h2.527v3.748h4.579l-4.578 5.592v2.104h-1.876v-2.758l2.528-3.086h-2.527V11.05h-4.58l4.58-5.592Z" fill="#00e5ff"/></g>
-  <text x="73" y="96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="15" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="90" lengthAdjust="spacingAndGlyphs">Burp Suite</text><g filter="url(#neu)">
-    <rect x="196" y="74" width="147" height="44" rx="14" fill="#0d1117"/>
-    <rect x="196" y="74" width="147" height="44" rx="14" fill="none" stroke="#bd00ff" stroke-opacity="0.14"/>
-  </g>
-  <g transform="translate(213,86.5) scale(0.7917)"><path d="m2.95 0c-1.62 0-2.95 1.32-2.95 2.95v18.1c0 1.63 1.32 2.95 2.95 2.95h18.1c1.62 0 2.95-1.32 2.95-2.95v-18.1c-.00024-1.63-1.32-2.95-2.95-2.95zm0 1.09h18.1c1.04 0 1.85.818 1.85 1.86v14h-5.27c-.335-.796-2.57-6.47.283-10.9a.516.517 0 0 0-.443-.794c-5.24.0827-8.2 3.19-9.74 6.21-1.35 2.64-1.63 4.91-1.69 5.53h-4.95v-14c0-1.04.817-1.86 1.85-1.86zm13.6 5.24c-2.62 5.24.248 11.4.248 11.4a.516.517 0 0 0 .469.301h5.62v3.05c0 1.04-.817 1.86-1.85 1.86h-18.1c-1.04 0-1.85-.818-1.85-1.86v-3.05h5.39a.516.517 0 0 0 .514-.477s.226-2.8 1.66-5.62c1.34-2.62 3.67-5.17 7.91-5.57z" fill="#bd00ff"/></g>
-  <text x="243" y="96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="15" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="81" lengthAdjust="spacingAndGlyphs">Wireshark</text><g filter="url(#neu)">
-    <rect x="357" y="74" width="102" height="44" rx="14" fill="#0d1117"/>
-    <rect x="357" y="74" width="102" height="44" rx="14" fill="none" stroke="#00e5ff" stroke-opacity="0.14"/>
-  </g>
-  <g transform="translate(374,86.5) scale(0.7917)"><path d="M12 1.6l9 5.2v10.4l-9 5.2-9-5.2V6.8zM12 7.5a4.5 4.5 0 100 9 4.5 4.5 0 000-9zm0 2.4a2.1 2.1 0 110 4.2 2.1 2.1 0 010-4.2z" fill="#00e5ff"/></g>
-  <text x="404" y="96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="15" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="36" lengthAdjust="spacingAndGlyphs">Nmap</text><g filter="url(#neu)">
-    <rect x="473" y="74" width="156" height="44" rx="14" fill="#0d1117"/>
-    <rect x="473" y="74" width="156" height="44" rx="14" fill="none" stroke="#bd00ff" stroke-opacity="0.14"/>
-  </g>
-  <g transform="translate(490,86.5) scale(0.7917)"><path d="M11.353 0h1.368q4.19.218 8.144 1.616.217.077.216.309-.015 4.033-.002 12.102 0 .81-.093 1.173c-.217.845-.76 1.635-1.326 2.325q-.318.388-1.024 1.046-2.955 2.75-6.01 5.094-.183.14-.516.335h-.17q-.627-.42-.945-.673-3.992-3.184-5.442-4.459-1.348-1.185-2.169-2.611c-.369-.64-.466-1.287-.465-2.099q.01-6.048.002-12.218c0-.183.09-.264.261-.325Q7.145.227 11.352 0ZM7.474 7.864q0-.094.069-.031l2.797 2.516a.374.372 21.2 0 1 .122.276l-.006 4.333a.182.182 0 0 0 .183.184l2.524-.018a.11.11 89.8 0 0 .108-.11q-.007-2.201.01-4.461.002-.173.146-.29 1.397-1.145 2.946-2.393.068-.055.068.032v10.881q0 .092.063.024.794-.865 1.628-1.838.71-.83.984-1.87.26-.989.262-1.997.007-4.754.009-9.768a.136.136 0 0 0-.137-.136q-1.15.004-2.424 0c-.287-.002-.441-.022-.619.149Q14.16 5.317 11.982 7.4a.046.046 0 0 1-.062 0Q9.782 5.437 7.769 3.525c-.234-.222-.515-.381-.843-.373q-1.09.026-2.33.005-.184-.004-.184.18-.003 4.54.005 9.032.002.536.036 1.027c.076 1.093.2 2.126.803 3.021.574.852 1.329 1.656 2.126 2.405q.023.022.054.026.04.006.04-.034z" fill="#bd00ff"/></g>
-  <text x="520" y="96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="15" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="90" lengthAdjust="spacingAndGlyphs">Metasploit</text><g filter="url(#neu)">
-    <rect x="643" y="74" width="120" height="44" rx="14" fill="#0d1117"/>
-    <rect x="643" y="74" width="120" height="44" rx="14" fill="none" stroke="#00e5ff" stroke-opacity="0.14"/>
-  </g>
-  <g transform="translate(660,86.5) scale(0.7917)"><path d="M12 1.6l9 5.2v10.4l-9 5.2-9-5.2V6.8zM12 7.5a4.5 4.5 0 100 9 4.5 4.5 0 000-9zm0 2.4a2.1 2.1 0 110 4.2 2.1 2.1 0 010-4.2z" fill="#00e5ff"/></g>
-  <text x="690" y="96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="15" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="54" lengthAdjust="spacingAndGlyphs">Ghidra</text>
+<circle cx="25" cy="15" r="4.5" fill="#00e5ff"/>
+<text x="40" y="15" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="16" font-weight="700" fill="#c9d1d9" dominant-baseline="central"><tspan fill="#8b98a9">// </tspan>offsec toolkit</text>
+<rect x="20" y="46" width="149" height="42" rx="13" fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="1.2" filter="url(#g0)"/>
+  <g transform="translate(36,58) scale(0.7500)"><path d="M0 0v24h24V0Zm11.063 3.357h1.874v2.756L10.41 9.2h2.527v3.748h4.579l-4.578 5.592v2.104h-1.876v-2.758l2.528-3.086h-2.527V11.05h-4.58l4.58-5.592Z" fill="#00e5ff"/></g>
+  <text x="64" y="67" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="14.5" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="87" lengthAdjust="spacingAndGlyphs">Burp Suite</text><rect x="181" y="46" width="140" height="42" rx="13" fill="none" stroke="#bd00ff" stroke-opacity="0.55" stroke-width="1.2" filter="url(#g1)"/>
+  <g transform="translate(197,58) scale(0.7500)"><path d="m2.95 0c-1.62 0-2.95 1.32-2.95 2.95v18.1c0 1.63 1.32 2.95 2.95 2.95h18.1c1.62 0 2.95-1.32 2.95-2.95v-18.1c-.00024-1.63-1.32-2.95-2.95-2.95zm0 1.09h18.1c1.04 0 1.85.818 1.85 1.86v14h-5.27c-.335-.796-2.57-6.47.283-10.9a.516.517 0 0 0-.443-.794c-5.24.0827-8.2 3.19-9.74 6.21-1.35 2.64-1.63 4.91-1.69 5.53h-4.95v-14c0-1.04.817-1.86 1.85-1.86zm13.6 5.24c-2.62 5.24.248 11.4.248 11.4a.516.517 0 0 0 .469.301h5.62v3.05c0 1.04-.817 1.86-1.85 1.86h-18.1c-1.04 0-1.85-.818-1.85-1.86v-3.05h5.39a.516.517 0 0 0 .514-.477s.226-2.8 1.66-5.62c1.34-2.62 3.67-5.17 7.91-5.57z" fill="#bd00ff"/></g>
+  <text x="225" y="67" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="14.5" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="78" lengthAdjust="spacingAndGlyphs">Wireshark</text><rect x="333" y="46" width="97" height="42" rx="13" fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="1.2" filter="url(#g0)"/>
+  <g transform="translate(349,58) scale(0.7500)"><path d="M12 1.6l9 5.2v10.4l-9 5.2-9-5.2V6.8zM12 7.5a4.5 4.5 0 100 9 4.5 4.5 0 000-9zm0 2.4a2.1 2.1 0 110 4.2 2.1 2.1 0 010-4.2z" fill="#00e5ff"/></g>
+  <text x="377" y="67" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="14.5" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="35" lengthAdjust="spacingAndGlyphs">Nmap</text><rect x="442" y="46" width="149" height="42" rx="13" fill="none" stroke="#bd00ff" stroke-opacity="0.55" stroke-width="1.2" filter="url(#g1)"/>
+  <g transform="translate(458,58) scale(0.7500)"><path d="M11.353 0h1.368q4.19.218 8.144 1.616.217.077.216.309-.015 4.033-.002 12.102 0 .81-.093 1.173c-.217.845-.76 1.635-1.326 2.325q-.318.388-1.024 1.046-2.955 2.75-6.01 5.094-.183.14-.516.335h-.17q-.627-.42-.945-.673-3.992-3.184-5.442-4.459-1.348-1.185-2.169-2.611c-.369-.64-.466-1.287-.465-2.099q.01-6.048.002-12.218c0-.183.09-.264.261-.325Q7.145.227 11.352 0ZM7.474 7.864q0-.094.069-.031l2.797 2.516a.374.372 21.2 0 1 .122.276l-.006 4.333a.182.182 0 0 0 .183.184l2.524-.018a.11.11 89.8 0 0 .108-.11q-.007-2.201.01-4.461.002-.173.146-.29 1.397-1.145 2.946-2.393.068-.055.068.032v10.881q0 .092.063.024.794-.865 1.628-1.838.71-.83.984-1.87.26-.989.262-1.997.007-4.754.009-9.768a.136.136 0 0 0-.137-.136q-1.15.004-2.424 0c-.287-.002-.441-.022-.619.149Q14.16 5.317 11.982 7.4a.046.046 0 0 1-.062 0Q9.782 5.437 7.769 3.525c-.234-.222-.515-.381-.843-.373q-1.09.026-2.33.005-.184-.004-.184.18-.003 4.54.005 9.032.002.536.036 1.027c.076 1.093.2 2.126.803 3.021.574.852 1.329 1.656 2.126 2.405q.023.022.054.026.04.006.04-.034z" fill="#bd00ff"/></g>
+  <text x="486" y="67" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="14.5" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="87" lengthAdjust="spacingAndGlyphs">Metasploit</text><rect x="603" y="46" width="114" height="42" rx="13" fill="none" stroke="#00e5ff" stroke-opacity="0.55" stroke-width="1.2" filter="url(#g0)"/>
+  <g transform="translate(619,58) scale(0.7500)"><path d="M12 1.6l9 5.2v10.4l-9 5.2-9-5.2V6.8zM12 7.5a4.5 4.5 0 100 9 4.5 4.5 0 000-9zm0 2.4a2.1 2.1 0 110 4.2 2.1 2.1 0 010-4.2z" fill="#00e5ff"/></g>
+  <text x="647" y="67" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,'Courier New',monospace" font-size="14.5" font-weight="500" fill="#c9d1d9" dominant-baseline="central" textLength="52" lengthAdjust="spacingAndGlyphs">Ghidra</text>
 </svg>
