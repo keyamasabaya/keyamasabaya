@@ -8,11 +8,6 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&reversal=true)
 
-[![Website](https://img.shields.io/badge/wespify.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=0D1117)](https://wespify.com)
-[![Contact](https://img.shields.io/badge/github%40wespify.com-0D1117?style=for-the-badge&logo=protonmail&logoColor=BD00FF&labelColor=0D1117)](mailto:github@wespify.com)
-[![Location](https://img.shields.io/badge/Made_in_France-0D1117?style=for-the-badge&logo=openstreetmap&logoColor=00E5FF&labelColor=0D1117)](#)
-[![PGP](https://img.shields.io/badge/PGP-A0B6_3B54_A0D3_3C06-0D1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=BD00FF&labelColor=0D1117)](#-gpg---list-keys)
-
 </div>
 
 ---
