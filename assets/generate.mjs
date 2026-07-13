@@ -251,18 +251,4 @@ panel('disclosure', {
 button('follow',  'Follow  @keyamasabaya', 'github', CYAN);
 button('sponsor', 'Say hi',          'githubsponsors', PURPLE);
 
-// PGP toggle — clean pill used as the <details> summary
-(function pgpToggle() {
-  const H = 46, FS = 14.5, label = 'Public PGP key', padL = 44, tw = Math.round(label.length * FS * CHARW);
-  const w = padL + tw + 150;
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${H}" viewBox="0 0 ${w} ${H}" role="img" aria-label="Public PGP key">
-<defs>${glow('k', PURPLE, { op: 0.32, blur: 6, dy: 2 })}</defs>
-<rect x="5" y="5" width="${w - 10}" height="${H - 10}" rx="13" fill="none" stroke="${PURPLE}" stroke-opacity="0.5" stroke-width="1.2" filter="url(#k)"/>
-${icon('gnuprivacyguard', 16, (H - 18) / 2, 18, PURPLE)}
-<text x="${padL}" y="${H / 2}" font-family="${FONT}" font-size="${FS}" font-weight="700" fill="${TEXT}" dominant-baseline="central" textLength="${tw}" lengthAdjust="spacingAndGlyphs">${label}</text>
-<text x="${padL + tw + 16}" y="${H / 2}" font-family="${FONT}" font-size="12.5" fill="${MUTED}" dominant-baseline="central">— click to expand</text>
-</svg>`;
-  writeFileSync(join(OUT, 'pgp-toggle.svg'), svg);
-})();
-
 console.log('generated design assets in', OUT);

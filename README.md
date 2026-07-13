@@ -130,18 +130,14 @@ Got an idea, a need, a technical challenge? Let's talk.
 <div align="center">
   <img src="assets/header-gpg.svg" alt="gpg --list-keys" width="100%" />
 
-<details>
-<summary><img src="assets/pgp-toggle.svg" alt="Public PGP key — click to expand" height="42" /></summary>
+<table align="center">
+<tr><td>
 
-<br/>
-
-```
+```text
 pub   rsa4096 2025-11-14 [SC]
 uid   w3spi5 <github@wespify.com>
 sub   rsa4096 2025-11-14 [E]
-```
 
-```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaReKGxYJKwYBBAHaRw8BAQdAP69WrJF2dKEn24eWMiiU2YLoXQE177zbzKkV
@@ -158,7 +154,8 @@ VGAA
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-</details>
+</td></tr>
+</table>
 
 </div>
 
