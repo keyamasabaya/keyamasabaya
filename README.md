@@ -1,12 +1,17 @@
 <div align="center">
 
 <a href="https://wespify.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+w3spi5_;Full-Stack+Dev+%2F%2F+Ethical+Hacker;Breaking+stuff+to+make+it+stronger;PHP+%E2%80%A2+Web3+%E2%80%A2+AI+%E2%80%A2+Offensive+Security" alt="w3spi5 — full-stack developer & ethical hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+keyamasabaya_;Full-Stack+Dev+%2F%2F+Ethical+Hacker;Breaking+stuff+to+make+it+stronger;PHP+%E2%80%A2+Web3+%E2%80%A2+AI+%E2%80%A2+Offensive+Security" alt="keyamasabaya — full-stack developer & ethical hacker" />
 </a>
 
 <br/>
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&reversal=true)
+
+[![Website](https://img.shields.io/badge/wespify.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=0D1117)](https://wespify.com)
+[![Contact](https://img.shields.io/badge/github%40wespify.com-0D1117?style=for-the-badge&logo=protonmail&logoColor=BD00FF&labelColor=0D1117)](mailto:github@wespify.com)
+[![Location](https://img.shields.io/badge/Made_in_France-0D1117?style=for-the-badge&logo=openstreetmap&logoColor=00E5FF&labelColor=0D1117)](#)
+[![PGP](https://img.shields.io/badge/PGP-A0B6_3B54_A0D3_3C06-0D1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=BD00FF&labelColor=0D1117)](#-gpg---list-keys)
 
 </div>
 
@@ -41,7 +46,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🎵 [php-discogs-api](https://github.com/w3spi5/php-discogs-api)
+#### 🎵 [php-discogs-api](https://github.com/keyamasabaya/php-discogs-api)
 
 PHP 8.x client for the Discogs API — direct access to the world's largest music database.
 
@@ -52,7 +57,7 @@ PHP 8.x client for the Discogs API — direct access to the world's largest musi
 </td>
 <td width="50%" valign="top">
 
-#### 💰 [php-bscscan-api](https://github.com/w3spi5/php-bscscan-api)
+#### 💰 [php-bscscan-api](https://github.com/keyamasabaya/php-bscscan-api)
 
 API client for the BSC blockchain explorer — real-time DeFi data extraction.
 
@@ -65,7 +70,7 @@ API client for the BSC blockchain explorer — real-time DeFi data extraction.
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 [realtime-object-detection](https://github.com/w3spi5/realtime-object-detection)
+#### 🤖 [realtime-object-detection](https://github.com/keyamasabaya/realtime-object-detection)
 
 Real-time object detection on mobile using TensorFlow.js and the COCO-SSD model.
 
@@ -114,7 +119,7 @@ Got an idea, a need, a technical challenge? Let's talk.
 
   <img src="assets/stat-overview.svg" alt="Overview — repositories, stars, pull requests, issues" width="100%" />
 
-  <img src="https://streak-stats.demolab.com?user=w3spi5&hide_border=true&background=00000000&border=00000000&stroke=3A4658&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B98A9&currStreakNum=BD00FF&sideNums=00E5FF" alt="Contributions & streak" height="180" />
+  <img src="https://streak-stats.demolab.com?user=keyamasabaya&hide_border=true&background=00000000&border=00000000&stroke=3A4658&ring=BD00FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B98A9&currStreakNum=BD00FF&sideNums=00E5FF" alt="Contributions & streak" height="180" />
 
   <img src="assets/stat-langs.svg" alt="Most used languages" width="100%" />
 
@@ -170,7 +175,7 @@ VGAA
 
 **Thanks for stopping by. Explore the repos, drop me a line, let's build (or break) something.**
 
-<a href="https://github.com/w3spi5"><img src="assets/btn-follow.svg" height="52" alt="Follow @w3spi5" /></a>
+<a href="https://github.com/keyamasabaya"><img src="assets/btn-follow.svg" height="52" alt="Follow @keyamasabaya" /></a>
 <a href="mailto:github@wespify.com"><img src="assets/btn-sponsor.svg" height="52" alt="Say hi" /></a>
 
 <br/>
