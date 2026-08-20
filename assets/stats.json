@@ -1,33 +1,33 @@
 {
-  "repos": 40,
-  "followers": 30,
-  "stars": 66,
-  "prs": 85,
+  "repos": 41,
+  "followers": 29,
+  "stars": 67,
+  "prs": 91,
   "issues": 19,
   "langs": [
     {
       "name": "PHP",
-      "pct": 73.2
+      "pct": 69.8
     },
     {
       "name": "JavaScript",
-      "pct": 17.4
+      "pct": 18.9
     },
     {
       "name": "CSS",
-      "pct": 4.1
+      "pct": 5.2
     },
     {
       "name": "Shell",
-      "pct": 3.1
+      "pct": 3.3
     },
     {
       "name": "TypeScript",
-      "pct": 1.8
+      "pct": 1.7
     },
     {
-      "name": "PowerShell",
-      "pct": 0.2
+      "name": "HTML",
+      "pct": 0.8
     }
   ]
 }
